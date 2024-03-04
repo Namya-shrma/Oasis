@@ -1,0 +1,41 @@
+html {
+    height: 100%;
+    width: 100%;
+    font-family: 'EB Garamond', serif, 'Montserrat', sans-serif, 'Titillium Web', sans-serif;
+    background-color: black;
+  }
+  
+  .button {
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 7px;
+    cursor: pointer;
+    width: 66px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .row {
+    margin: 3px 0;
+  }
+  
+  .row input {
+    margin-bottom: 10px;
+    font-size: 20px;
+    padding: 13px 24px;
+    border: 2px solid black;
+    border-radius: 6px;
+    box-shadow : 0px 3px 15px #ca86ca;
+  }
+  
+  .outer-box {
+    border: 8px solid #b1aaaa;
+    margin: auto;
+    width: 25%;
+    padding: 20px 0;
+    border-radius: 20px;
+    background-color: transparent;
+    box-shadow : 0px 3px 15px #b1aaaa;
+  }
